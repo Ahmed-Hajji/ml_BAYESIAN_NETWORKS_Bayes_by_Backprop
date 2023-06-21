@@ -1,3 +1,7 @@
+# Notebook cache
 .ipynb_checkpoints
 **/*.ipynb_checkpoints/
 **/__pycache__/*
+
+# local experiments
+**/temp_code/**
